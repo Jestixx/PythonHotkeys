@@ -1,7 +1,7 @@
 # PythonHotkeys
 This is a pure python hotkey
 
-Essentiallly it makes a loop thten it says that if it sees a certain key being pressed, press and release this key 
+Essentiallly it makes a loop thten it says that if it sees a certain key being pressedto press what you have set. 
 
 example 
 
