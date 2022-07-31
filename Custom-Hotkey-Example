@@ -1,0 +1,9 @@
+import keyboard
+import time as t
+
+
+while True: 
+    if keyboard.read_key() =="c":
+       keyboard.press_and_release("a")
+       t.sleep(0.2)
+
