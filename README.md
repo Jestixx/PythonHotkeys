@@ -5,7 +5,7 @@ Essentiallly it makes a loop thten it says that if it sees a certain key being p
 
 example 
 
-whenyou press lets say the letter a on your keyboard it will detect it and then send a signal to press l.
+when you press lets say the letter a on your keyboard it will detect it and then send a signal to press l.
 
 I have created 2 files, First one is the example file, Second fille is a clean file where is easy to edit and easily start
 
